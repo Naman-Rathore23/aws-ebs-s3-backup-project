@@ -1,0 +1,2 @@
+# Appended to /etc/fstab so /logs is mounted automatically after every reboot
+UUID=b8e6296c-3dad-4056-a3fc-63f568347d11  /logs  xfs  defaults,nofail  0  2

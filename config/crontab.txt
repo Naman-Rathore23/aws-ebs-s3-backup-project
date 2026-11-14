@@ -1,0 +1,2 @@
+# Runs every night at 02:00 IST (server time is UTC: 20:30 UTC = 02:00 IST)
+30 20 * * * /home/ec2-user/backup.sh
